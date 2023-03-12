@@ -1,0 +1,7 @@
+C:\Users\barba\source\repos\bufe\bufe\bin\Debug\bufe.exe.config
+C:\Users\barba\source\repos\bufe\bufe\bin\Debug\bufe.exe
+C:\Users\barba\source\repos\bufe\bufe\bin\Debug\bufe.pdb
+C:\Users\barba\source\repos\bufe\bufe\obj\Debug\bufe.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\bufe\bufe\obj\Debug\bufe.exe
+C:\Users\barba\source\repos\bufe\bufe\obj\Debug\bufe.pdb
+C:\Users\barba\source\repos\bufe\bufe\obj\Debug\bufe.csproj.AssemblyReference.cache

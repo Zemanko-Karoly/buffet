@@ -1,0 +1,10 @@
+C:\Users\barba\source\repos\bufe\bufeCon\bin\Debug\bufeCon.exe.config
+C:\Users\barba\source\repos\bufe\bufeCon\bin\Debug\bufeCon.exe
+C:\Users\barba\source\repos\bufe\bufeCon\bin\Debug\bufeCon.pdb
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.Form1.resources
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.Properties.Resources.resources
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.csproj.GenerateResource.cache
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.exe
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.pdb
+C:\Users\barba\source\repos\bufe\bufeCon\obj\Debug\bufeCon.csproj.AssemblyReference.cache
